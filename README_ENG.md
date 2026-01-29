@@ -11,10 +11,9 @@ Example APIs:
 The API endpoint is provided as a runtime parameter.
 
 ## 📚 Information
-- Course: (fill in)
+- Course: PLH 47
 - Assignment: Parallel Text Analysis with Public APIs
 - Language: Java
-- Student: (your name)
 
 ## 📝 Description
 
